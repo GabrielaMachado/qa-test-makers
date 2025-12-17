@@ -15,3 +15,7 @@ npx cypress run
 4. Abrir Cypress UI (opcional)
 npx cypress open
 
+
+## Link Módulo API
+https://docs.google.com/document/d/1TPdc0whh6GrJ-RYnc7HQnyuFbIdSpIrLUwKQV4_gMv4/edit?usp=sharing
+
