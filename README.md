@@ -4,7 +4,7 @@ cypress + api + funcional test
 ## Cómo ejecutar
 
 1. Clonar el repositorio
-git clone <repo_url>
+git clone https://github.com/GabrielaMachado/qa-test-makers
 
 2. Instalar dependencias
 npm install
